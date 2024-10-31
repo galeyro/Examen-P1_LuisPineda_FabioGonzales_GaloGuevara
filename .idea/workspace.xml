@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff1702eb-a3a3-4cf2-8e7f-2a9dc64751b5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColaGuerreros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColaGuerreros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColaGuerrerosGUI.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColaGuerrerosGUI.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColaGuerrerosGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColaGuerrerosGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Guerrero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Guerrero.java" afterDir="false" />
+    </list>
+    <list id="85e74be0-222e-47dc-af78-afa3d9655f0e" name="Changes by ASUS Vivobook" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ColaGuerreros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColaGuerreros.java" afterDir="false" />
+    </list>
+    <list id="92f181d8-ed25-4345-ba47-34274a983cc3" name="Changes by Luis" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ColaGuerreros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColaGuerreros.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/ColaGuerreros.java">
+      <ranges>
+        <range start1="55" end1="55" start2="55" end2="56" changelist="85e74be0-222e-47dc-af78-afa3d9655f0e" />
+        <range start1="65" end1="66" start2="66" end2="67" changelist="92f181d8-ed25-4345-ba47-34274a983cc3" />
+        <range start1="79" end1="84" start2="80" end2="86" changelist="ff1702eb-a3a3-4cf2-8e7f-2a9dc64751b5" />
+        <range start1="96" end1="98" start2="98" end2="103" changelist="92f181d8-ed25-4345-ba47-34274a983cc3" />
+        <range start1="99" end1="103" start2="104" end2="107" changelist="92f181d8-ed25-4345-ba47-34274a983cc3" />
+        <range start1="109" end1="111" start2="113" end2="113" changelist="ff1702eb-a3a3-4cf2-8e7f-2a9dc64751b5" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2oAraA3mWFg1LTpfW0oBBSkodNi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ColaGuerrerosGUI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/G_Laptop/OneDrive - Universidad de Las Américas/Desktop/PruebaProgresoI/Examen_P1_G2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1702eb-a3a3-4cf2-8e7f-2a9dc64751b5" name="Changes" comment="" />
+      <created>1730323282323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730323282323</updated>
+    </task>
+    <servers />
+  </component>
+</project>
